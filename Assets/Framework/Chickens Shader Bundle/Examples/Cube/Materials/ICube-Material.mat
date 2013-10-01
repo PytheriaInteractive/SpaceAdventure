@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ICube-Material
+  m_Shader: {fileID: 4800000, guid: ae9e6ef00a12f3f45b6318b9868f39c2, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 99e394c6b9543c4409abfd916279f02b, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DecalTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _TMAP
+        second:
+          m_Texture: {fileID: 2800000, guid: b9786f35f0f56e048aea21a24af83599, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _AO
+        second:
+          m_Texture: {fileID: 2800000, guid: 37af46eb77579be4190f28981f146a97, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _AOM
+        second:
+          m_Texture: {fileID: 2800000, guid: b9786f35f0f56e048aea21a24af83599, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .76358211
+      data:
+        first:
+          name: _TMUL
+        second: 2.5
+      data:
+        first:
+          name: _TPOW
+        second: 5
+      data:
+        first:
+          name: _Dist
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .873134315, g: .873134315, b: .873134315, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 0, g: .160839558, b: 1, a: 1}
+      data:
+        first:
+          name: _SSSC
+        second: {r: .627451003, g: .949019611, b: 1, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

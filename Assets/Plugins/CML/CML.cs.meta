@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 27d6d0c79acd84947a82ccb8ff8e125d
+labels:
+- dialogue
+- engine
+- interact
+- npc
+- rpg
+- cml
+- ude
+- unity
+- fps
+- 3rd
+- person
+- shooter
+- speak
+- investigate
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

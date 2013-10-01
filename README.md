@@ -1,4 +1,0 @@
-SpaceAdventure
-==============
-
-Space Adventure PrototypeGame

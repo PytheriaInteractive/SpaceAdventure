@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2fdc1ae2f04da498a8e222dbc5d089a9
+labels:
+- dialogue
+- engine
+- load
+- ngui
+- npc
+- rpg
+- save
+- system
+- ude
+- unity
+- speech
+- popup
+- description
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
